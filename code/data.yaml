@@ -1,0 +1,6 @@
+train: D:\Research\Skeleton Tracking\code\train
+val: D:\Research\Skeleton Tracking\code\val
+
+nc: 4
+
+names: ["c1", "c2", "shuttle", "player"]
